@@ -1,5 +1,5 @@
 ---
-name: device-compromise-checker
+name: mo-device-compromise-checker
 description: >
   Check iPhone, iPad, and MacBook for signs of compromise, spyware, malware, and unauthorized access.
   Covers iOS/iPadOS detection (battery drain, data usage, unknown apps, configuration profiles,
@@ -9,7 +9,7 @@ description: >
   "spyware detection", "device security check", "Pegasus spyware", "check if my devices are infected".
 ---
 
-# Device Compromise Checker
+# mo-Device Compromise Checker
 
 Check iPhone, iPad, and MacBook for signs of compromise, spyware, and malware.
 
